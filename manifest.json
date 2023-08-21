@@ -1,0 +1,16 @@
+{
+  "name": "radix-color-styles-to-variables",
+  "id": "1255893968358524309",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
